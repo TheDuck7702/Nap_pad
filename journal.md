@@ -9,3 +9,6 @@ So the plan is to start the full size project today, and than ill try to finish 
 ## Day 2 - June 15 5:00am
 so i kinda procastanated too much and i didnt do it for like3 days. its rly erly inthe morning and i js finsihded the rgbs. I was going to do it so each swich will have tis own led, but to save cost, ill have 10-20 leds, around the board, and transperent key caps to make some sort of backlight. I looked as sm guides to understand how to wire them and yea. 
 ![Screenshot 2025-06-15 042730](https://github.com/user-attachments/assets/18774635-9bae-4fa1-a434-80ccb6124f04)
+
+## Day 3 - June 20 3:00 pm
+So Sry for the long break, i had to finish school. I still have 1 final left. So td im gonna work on the wireing the tags to the chipset for the schematic, and try to start on the wiring of the pcb. So i finshed the schematic, but i had to solve this weird prob. Firsrly, the led iw as using was rly bad, and was too big for my build (WBS1821) so i had to switch over to SK6812-MINI-E. There was no footprint for SK6812-MINI-E, so i had to make my own. This took quite some time, as i needed to orenent that corretly (Like DIN to pin 4, and DOUT to pin 2, VDD to pin 1 and VSS to pin 3). 
