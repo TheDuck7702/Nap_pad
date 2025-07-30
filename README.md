@@ -1,6 +1,6 @@
 # Nap-Pad
 
-A 60% keyboard with RGB and a rotary encoder. Made for sleepers, by sleepers. It is portable and very sleepy. Made with KiCAD and Fusion 360 and by Shayaan.is.sleep//The_Duck🦆 (me) I designed this to be very minimal and to adhere to a specific color scheme. I have a black computer and a white desk, so I want the case and keycaps to reflect that. This keyboard is an extension project for my hackpad, which I have built at the time of writing. This would just be the normal, default 60% keyboards you find at your local Best Buy.
+A 60% keyboard with RGB and a rotary encoder. Made for sleepers, by sleepers. It is portable and very relaxing. Made with KiCAD and Fusion 360 and by Shayaan.is.sleep//The_Duck🦆 (me) I designed this to be very minimal and to adhere to a specific color scheme. I have a black computer and a white desk, so I want the case and keycaps to reflect that. This keyboard is an extension project for my hackpad, which I have built at the time of writing. This would just be the normal, default 60% keyboards you find at your local Best Buy.
 
 <img width="1037" height="361" alt="image" src="https://github.com/user-attachments/assets/0a65aeb9-8659-45eb-a989-bd908214c4ba" />
 
