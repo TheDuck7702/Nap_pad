@@ -25,6 +25,7 @@ I wanted to add more features that I missed out on in my hackpad. One thing I re
 |  Stabilizers | 7.99  |   |  https://www.aliexpress.com/item/1005009141481219.html |
 
 Full Amazon order
+
 | Item  | cost |
 | ------------- |
 | Kailh white Box Switch v2  |  32.63 |
@@ -32,6 +33,7 @@ Full Amazon order
 | TOTAL (with shipping): | CAD 89.37 |
 
 Full Ali Express order
+
 | Item  | cost |
 | ------------- |
 | SK6812mini-e |  13.99 |
