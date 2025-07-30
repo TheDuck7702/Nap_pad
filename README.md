@@ -20,16 +20,16 @@ I wanted to add more features that I missed out on in my hackpad. One thing I re
 
 ## BOM
 
-| Item  | cost | notes | link |
-| ------------- | ------------- | ------------- | ------------- |
-| PCB  |  32.63 | includes shipping and duties  |  JLCPCB |
-| Rotery encoder  | 0  | Already owned  |  N/A |
-|  switches | 39.60  | Kailh white Box Switch v2  | (https://www.amazon.ca/DRAOZA-Mechanical-Keyboard-Waterproof-Dustproof/dp/B0B9BDM57S/ref=sr_1_1?dib=eyJ2IjoiMSJ9.m46gAJky6mvveBdoPM6G0Bqff3t3H-JlgALWFqsYkIzK6f2OjZi30Oqz8CpCR5Ha2FFKmAjoot_OlK31yNlAk_f_K5Uej1uoJ7yzFg2GPCvaAgBfqdJtB9Hp7fzP0INWc6BwC4DnzXwxmzEg411zNKiwnuXnSy-I4T__J7t1EELOR0YZHLRP9n7w3H8bv_dMlrUZwWq0KA-z7J7asj08Q3OI16xCmB2bi29se8Z0EmcR-tu2PRx939jgWnd-GLku6Gw-Yn6LqZ5AD-_G9801sg12d_Rio1tt5Ozvn9Hftco.Jt98DYzyQJYuVERCqe-ktBRGhfifDhUicgHSDXzDvt8&dib_tag=se&keywords=box%2Bwhite%2Bv2%2Bkailh%2Bmx%2Bswitches&qid=1753852675&sr=8-1&th=1)  |
-| Diodes  | 0  | Already owned  | N/A  |
-|  leds | 13.99  |  SK6812mini-e |  https://www.aliexpress.com/i/4000476037223.html |
-| keycaps  |  44.18 | shipping included  |  https://www.amazon.ca/Doubleshot-Keyboard-Switches-Mechanical-Keyboards/dp/B0BNWWVXQ2/?_encoding=UTF8&pd_rd_w=9ngKH&content-id=amzn1.sym.1eddeb24-49ac-4f63-adba-476f139ed9d3%3Aamzn1.symc.a68f4ca3-28dc-4388-a2cf-24672c480d8f&pf_rd_p=1eddeb24-49ac-4f63-adba-476f139ed9d3&pf_rd_r=SZ89S6H40RGR9BQMAZ2N&pd_rd_wg=dmQc3&pd_rd_r=39e621e9-7adb-43c3-bd0f-eada45d6220c&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1 |
-|  Stabilizers | 7.99  |   |  https://www.aliexpress.com/item/1005009141481219.html |
-|  Chip | 0  | already owned (pico)  |  N/A |
+| Item  | Quantity | cost | notes | link |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| PCB  |  |  32.63 | includes shipping and duties  |  JLCPCB |
+| Rotery encoder  |  | 0  | Already owned  |  N/A |
+|  switches |  | 39.60  | Kailh white Box Switch v2  | (https://www.amazon.ca/DRAOZA-Mechanical-Keyboard-Waterproof-Dustproof/dp/B0B9BDM57S/ref=sr_1_1?dib=eyJ2IjoiMSJ9.m46gAJky6mvveBdoPM6G0Bqff3t3H-JlgALWFqsYkIzK6f2OjZi30Oqz8CpCR5Ha2FFKmAjoot_OlK31yNlAk_f_K5Uej1uoJ7yzFg2GPCvaAgBfqdJtB9Hp7fzP0INWc6BwC4DnzXwxmzEg411zNKiwnuXnSy-I4T__J7t1EELOR0YZHLRP9n7w3H8bv_dMlrUZwWq0KA-z7J7asj08Q3OI16xCmB2bi29se8Z0EmcR-tu2PRx939jgWnd-GLku6Gw-Yn6LqZ5AD-_G9801sg12d_Rio1tt5Ozvn9Hftco.Jt98DYzyQJYuVERCqe-ktBRGhfifDhUicgHSDXzDvt8&dib_tag=se&keywords=box%2Bwhite%2Bv2%2Bkailh%2Bmx%2Bswitches&qid=1753852675&sr=8-1&th=1)  |
+| Diodes  |  | 0  | Already owned  | N/A  |
+|  leds |  | 13.99  |  SK6812mini-e |  https://www.aliexpress.com/i/4000476037223.html |
+| keycaps  |  |  44.18 | shipping included  |  https://www.amazon.ca/Doubleshot-Keyboard-Switches-Mechanical-Keyboards/dp/B0BNWWVXQ2/?_encoding=UTF8&pd_rd_w=9ngKH&content-id=amzn1.sym.1eddeb24-49ac-4f63-adba-476f139ed9d3%3Aamzn1.symc.a68f4ca3-28dc-4388-a2cf-24672c480d8f&pf_rd_p=1eddeb24-49ac-4f63-adba-476f139ed9d3&pf_rd_r=SZ89S6H40RGR9BQMAZ2N&pd_rd_wg=dmQc3&pd_rd_r=39e621e9-7adb-43c3-bd0f-eada45d6220c&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1 |
+|  Stabilizers |  | 7.99  |   |  https://www.aliexpress.com/item/1005009141481219.html |
+|  Chip |  | 0  | already owned (pico)  |  N/A |
 
 Full Amazon order
 
