@@ -19,6 +19,11 @@ Ok,, so tbh after finishing the schematic, II got reallylly confused with the fo
 
 ## Day 5 - July 29 9:00 am
 Ok, so I want to be done with everything today, so I started wiring everything. My friend (the same one that told me about the footprints) gave me advice on how and why I should set a ground pour. This is basically a big block that will all be grounded or 5 volts. This will hopefully lessen the amount of wires. After I finished all that, I thought I was done, but it turns out the ground pour could be cut off, and I had like 20 huge holes in my ground pour. I spent the next 3 hours connecting and moving wires so everything gets connected. After so long, at 10:30 pm, I have finished the whole thing and even ran the DRC, and everything went good! I even got the time to clean up my schematic.
+
+## Day 5, Part 2: 3:00 am
+
+So after I took a break after I finished the PCB, I started to move on to the Fusion 360 3D modeling for the case. This was relatively easy, as I have done the same for my hackpad, and I just used the same tutorial. Some of the numbers will be wrong if you follow the guide, but the pictures show you where they got the numbers, so yeah, 10/10 job to whoever made it. As of now I have just finished the top and bottom plate and made a little assembly file to render how it would look at the end and to make sure everything matches up. 
+
 <img width="1304" height="457" alt="image" src="https://github.com/user-attachments/assets/b43450dd-94b8-4d48-a97e-fca0b5fad4d4" />
 <img width="1004" height="753" alt="image" src="https://github.com/user-attachments/assets/cec4439c-536b-452d-9153-60fdccc4bec1" />
 
