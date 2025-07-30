@@ -23,6 +23,7 @@ I wanted to add more features that I missed out on in my hackpad. One thing I re
 |  leds | 13.99  |  SK6812mini-e |  https://www.aliexpress.com/i/4000476037223.html |
 | keycaps  |  44.18 | shipping included  |  https://www.amazon.ca/Doubleshot-Keyboard-Switches-Mechanical-Keyboards/dp/B0BNWWVXQ2/?_encoding=UTF8&pd_rd_w=9ngKH&content-id=amzn1.sym.1eddeb24-49ac-4f63-adba-476f139ed9d3%3Aamzn1.symc.a68f4ca3-28dc-4388-a2cf-24672c480d8f&pf_rd_p=1eddeb24-49ac-4f63-adba-476f139ed9d3&pf_rd_r=SZ89S6H40RGR9BQMAZ2N&pd_rd_wg=dmQc3&pd_rd_r=39e621e9-7adb-43c3-bd0f-eada45d6220c&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1 |
 |  Stabilizers | 7.99  |   |  https://www.aliexpress.com/item/1005009141481219.html |
+|  Chip | 0  | already owned (pico)  |  N/A |
 
 Full Amazon order
 
