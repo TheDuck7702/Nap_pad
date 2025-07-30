@@ -47,7 +47,7 @@ Full Ali Express order
 
 | Total (CAD)  |
 | ------------- |
-| $ 113.2 |
+| $ 145.83 |
 
 
 
