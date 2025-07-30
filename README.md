@@ -26,18 +26,18 @@ I wanted to add more features that I missed out on in my hackpad. One thing I re
 
 Full Amazon order
 
-| Item  | cost |
+| Item | cost |
 | ------------- |
-| Kailh white Box Switch v2  |  32.63 |
-| keycaps  |  44.18 |
+| Kailh white Box Switch v2 |  32.63 |
+| keycaps | 44.18 |
 | TOTAL (with shipping): | CAD 89.37 |
 
 Full Ali Express order
 
-| Item  | cost |
+| Item | cost |
 | ------------- |
-| SK6812mini-e |  13.99 |
-| Stabilizers  |  7.99 |
+| SK6812mini-e | 13.99 |
+| Stabilizers  | 7.99 |
 | TOTAL (with shipping): | CAD 23.83 |
 
 TOTAL
