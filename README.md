@@ -12,6 +12,12 @@ I wanted to add more features that I missed out on in my hackpad. One thing I re
 
 <img width="1140" height="775" alt="image" src="https://github.com/user-attachments/assets/da7d93c5-8963-44d0-a2b8-4c25844b77ba" />
 
+<img width="1162" height="501" alt="image" src="https://github.com/user-attachments/assets/82566214-bb1a-4b4a-ba3b-af9020b84749" />
+
+<img width="1134" height="470" alt="image" src="https://github.com/user-attachments/assets/4694a3ef-7395-4993-946e-607f18c68dad" />
+
+<img width="1127" height="507" alt="image" src="https://github.com/user-attachments/assets/2c187adf-87a0-4641-b9bb-ca60a3a58088" />
+
 ## BOM
 
 | Item  | cost | notes | link |
