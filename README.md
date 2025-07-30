@@ -26,13 +26,16 @@ I wanted to add more features that I missed out on in my hackpad. One thing I re
 
 Full Amazon order
 
+
 | Item | cost |
 | ------- |
 | Kailh white Box Switch v2 | 32.63 |
 | keycaps | 44.18 |
 | TOTAL (with shipping): | CAD 89.37 |
 
+
 Full Ali Express order
+
 
 | Item | cost |
 | ------------- |
@@ -40,7 +43,7 @@ Full Ali Express order
 | Stabilizers | 7.99 |
 | TOTAL (with shipping): | CAD 23.83 |
 
-TOTAL
+
 | Total (CAD)  |
 | ------------- |
 | $ 113.2 |
