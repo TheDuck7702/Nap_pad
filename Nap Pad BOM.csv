@@ -1,0 +1,11 @@
+Item,Quantity,Cost (CAD),Notes,Link
+PCB,1x,32.63,Includes shipping and duties,JLCPCB
+Rotary Encoder,1x,0,Already owned,N/A
+Switches,61x,39.6,Kailh Box White V2,https://www.amazon.ca/dp/B0B9BDM57S
+Diodes,61x,0,Already owned,N/A
+LEDs,61x,13.99,SK6812mini-e,https://www.aliexpress.com/i/4000476037223.html
+Keycaps,"1 set, 104 keyscaps",44.18,Shipping included,https://www.amazon.ca/dp/B0BNWWVXQ2
+Stabilizers,1 set,7.99,,https://www.aliexpress.com/item/1005009141481219.html
+Chip (Raspberry Pi Pico),1x,0,Already owned,N/A
+capacitors ,6x,1.38,100nf THT,https://www.aliexpress.com/item/1005002290441861.html?spm=a2g0o.cart.0.0.248f38datGyvkZ&mp=1&pdp_npi=5%40dis%21CAD%21CAD%201.38%21CAD%201.38%21%21CAD%201.38%21%21%21%402101c59117542808099897590e61e7%2112000020462004307%21ct%21CA%216437165644%21%211%210
+Shipping,N/A,21.74,ali + amazon,N/A
