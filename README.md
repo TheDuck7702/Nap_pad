@@ -7,7 +7,7 @@ A 60% keyboard with RGB and a rotary encoder. Made for sleepers, by sleepers. It
 <img width="1037" height="361" alt="image" src="https://github.com/user-attachments/assets/0a65aeb9-8659-45eb-a989-bd908214c4ba" />
 
 ## Motavation
-I wanted to add more features that I missed out on in my hackpad. One thing I really wanted was an ACC matrix in my schematic. This would allow me to not be constricted by the number of GPIO pins on my chip. I did not want to make a full 104-key keyboard because I thought it would be too much of a jump from a 6-key keypad to a full-size one.
+I wanted to add more features that I missed out on in my hackpad. One thing I really wanted was an ACC matrix in my schematic. This would allow me to not be constricted by the number of GPIO pins on my chip. I did not want to make a full 104-key keyboard because I thought it would be too much of a jump from a 6-key keypad to a full-size one.  Also tyy for The Weekend for Six Feet Under, underrated song ong.
 
 ## Photos
 ![alt text](Assets/image.png)
