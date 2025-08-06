@@ -37,12 +37,12 @@ I wanted to add more features that I missed out on in my hackpad. One thing I re
 |  Chip |  | 0  | already owned (pico)  |  N/A |
 | capacitors | 6 | 1.38 | 100nf THT | https://www.aliexpress.com/item/1005002290441861.html?spm=a2g0o.productlist.main.4.42caA1wVA1wVh4&aem_p4p_detail=202508032051198858958194839320007140543&algo_pvid=49f9f44b-662c-49ed-9877-fc4a33ca1e9c&algo_exp_id=49f9f44b-662c-49ed-9877-fc4a33ca1e9c-3&pdp_ext_f=%7B%22order%22%3A%22656%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%211.38%211.38%21%21%210.98%210.98%21%402101ec1a17542794798883804e054c%2112000020462004307%21sea%21CA%216437165644%21X&curPageLogUid=kATS2oS2DdSY&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202508032051198858958194839320007140543_1#nav-specification |
 | Shipping | N/A | 7.99 | Ali+amazon order |N/A |
-| Kalih hotswap | 1 set | 14.40 |  | https://www.aliexpress.com/item/1005006625852715.html?spm=a2g0o.productlist.main.1.4dcb26b4PcN24e&algo_pvid=25581b06-61ca-4069-b173-402a8453f443&algo_exp_id=25581b06-61ca-4069-b173-402a8453f443-0&pdp_ext_f=%7B%22order%22%3A%22160%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21CAD%2113.68%2113.68%21%21%2169.80%2169.80%21%4021030ea417545038159263104e3a83%2112000037858496852%21sea%21CA%216437165644%21X%211%210%21&curPageLogUid=s8vPYMWCqdQR&utparam-url=scene%3Asearch%7Cquery_from%3A |
+| Kalih hotswap | 1 set | 12.40 |  | https://www.aliexpress.com/item/1005002653433091.html?spm=a2g0o.productlist.main.5.46b155f9DP4pJx&algo_pvid=ba556ca0-b9d5-448c-9c78-f40e4db617a3&algo_exp_id=ba556ca0-b9d5-448c-9c78-f40e4db617a3-4&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21CAD%2116.35%218.99%21%21%2183.42%2145.87%21%402101d9ef17545057580813612e0d0c%2112000021573005278%21sea%21CA%216437165644%21X%211%210%21&curPageLogUid=3lRsJQuxtd84&utparam-url=scene%3Asearch%7Cquery_from%3A#nav-specification |
 | USB c to a cable | 1x | 12.78 |  | https://www.aliexpress.com/item/1005007994819567.html?spm=a2g0o.productlist.main.7.4ff33fcb1nHz8P&algo_pvid=74f753d9-f52d-49d0-891c-71802c7aca80&algo_exp_id=74f753d9-f52d-49d0-891c-71802c7aca80-6&pdp_ext_f=%7B%22order%22%3A%2267%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21CAD%2112.48%2112.48%21%21%2163.67%2163.67%21%402101ec1f17544508490103968e3ff6%2112000043194746134%21sea%21CA%216437165644%21X%211%210%21&curPageLogUid=OkDO6QcIinjE&utparam-url=scene%3Asearch%7Cquery_from%3A |
 
 | Total (CAD)  | Total (USD) |
 | ------------- | ------------- |
-| $ 161.35 | $ 117.56 |
+| $ 159.35 | $ 116.56 |
 
 
 
