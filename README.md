@@ -32,17 +32,17 @@ I wanted to add more features that I missed out on in my hackpad. One thing I re
 |  switches |  | 30.35  | Kailh white Box Switch v2  |  https://www.aliexpress.com/item/1005008723788969.html?spm=a2g0o.productlist.0.0.7fb15661ATNCvm&mp=1&pdp_npi=5%40dis%21CAD%21CAD%2036.39%21CAD%2030.35%21%21CAD%2030.35%21%21%21%402103201917545041377485752e4ead%2112000046402747119%21ct%21CA%216437165644%21%211%210 |
 | Diodes  |  | 0  | Already owned  | N/A  |
 |  leds |  | 13.99  |  SK6812mini-e |  https://www.aliexpress.com/i/4000476037223.html |
-| keycaps  |  |  44.18 | shipping included  |  https://www.amazon.ca/Doubleshot-Keyboard-Switches-Mechanical-Keyboards/dp/B0BNWWVXQ2/?_encoding=UTF8&pd_rd_w=9ngKH&content-id=amzn1.sym.1eddeb24-49ac-4f63-adba-476f139ed9d3%3Aamzn1.symc.a68f4ca3-28dc-4388-a2cf-24672c480d8f&pf_rd_p=1eddeb24-49ac-4f63-adba-476f139ed9d3&pf_rd_r=SZ89S6H40RGR9BQMAZ2N&pd_rd_wg=dmQc3&pd_rd_r=39e621e9-7adb-43c3-bd0f-eada45d6220c&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1 |
+| keycaps  |  |  39.99 | shipping included  |  https://www.amazon.ca/Doubleshot-Keyboard-Switches-Mechanical-Keyboards/dp/B0BNWWVXQ2/?_encoding=UTF8&pd_rd_w=9ngKH&content-id=amzn1.sym.1eddeb24-49ac-4f63-adba-476f139ed9d3%3Aamzn1.symc.a68f4ca3-28dc-4388-a2cf-24672c480d8f&pf_rd_p=1eddeb24-49ac-4f63-adba-476f139ed9d3&pf_rd_r=SZ89S6H40RGR9BQMAZ2N&pd_rd_wg=dmQc3&pd_rd_r=39e621e9-7adb-43c3-bd0f-eada45d6220c&ref_=pd_hp_d_atf_ci_mcx_mr_ca_hp_atf_d&th=1 |
 |  Stabilizers |  | 7.99  |   |  https://www.aliexpress.com/item/1005009141481219.html |
 |  Chip |  | 0  | already owned (pico)  |  N/A |
 | capacitors | 6 | 1.38 | 100nf THT | https://www.aliexpress.com/item/1005002290441861.html?spm=a2g0o.productlist.main.4.42caA1wVA1wVh4&aem_p4p_detail=202508032051198858958194839320007140543&algo_pvid=49f9f44b-662c-49ed-9877-fc4a33ca1e9c&algo_exp_id=49f9f44b-662c-49ed-9877-fc4a33ca1e9c-3&pdp_ext_f=%7B%22order%22%3A%22656%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21CAD%211.38%211.38%21%21%210.98%210.98%21%402101ec1a17542794798883804e054c%2112000020462004307%21sea%21CA%216437165644%21X&curPageLogUid=kATS2oS2DdSY&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202508032051198858958194839320007140543_1#nav-specification |
-| Shipping | N/A | 7.74 | Ali+amazon order |N/A |
-| Kalih hotswap | 1 set |  | 15.40 | https://www.aliexpress.com/item/1005006625852715.html?spm=a2g0o.productlist.main.1.4dcb26b4PcN24e&algo_pvid=25581b06-61ca-4069-b173-402a8453f443&algo_exp_id=25581b06-61ca-4069-b173-402a8453f443-0&pdp_ext_f=%7B%22order%22%3A%22160%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21CAD%2113.68%2113.68%21%21%2169.80%2169.80%21%4021030ea417545038159263104e3a83%2112000037858496852%21sea%21CA%216437165644%21X%211%210%21&curPageLogUid=s8vPYMWCqdQR&utparam-url=scene%3Asearch%7Cquery_from%3A |
+| Shipping | N/A | 7.99 | Ali+amazon order |N/A |
+| Kalih hotswap | 1 set |  | 14.40 | https://www.aliexpress.com/item/1005006625852715.html?spm=a2g0o.productlist.main.1.4dcb26b4PcN24e&algo_pvid=25581b06-61ca-4069-b173-402a8453f443&algo_exp_id=25581b06-61ca-4069-b173-402a8453f443-0&pdp_ext_f=%7B%22order%22%3A%22160%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21CAD%2113.68%2113.68%21%21%2169.80%2169.80%21%4021030ea417545038159263104e3a83%2112000037858496852%21sea%21CA%216437165644%21X%211%210%21&curPageLogUid=s8vPYMWCqdQR&utparam-url=scene%3Asearch%7Cquery_from%3A |
 | USB c to a cable | 1x | 12.78 |  | https://www.aliexpress.com/item/1005007994819567.html?spm=a2g0o.productlist.main.7.4ff33fcb1nHz8P&algo_pvid=74f753d9-f52d-49d0-891c-71802c7aca80&algo_exp_id=74f753d9-f52d-49d0-891c-71802c7aca80-6&pdp_ext_f=%7B%22order%22%3A%2267%22%2C%22eval%22%3A%221%22%7D&pdp_npi=6%40dis%21CAD%2112.48%2112.48%21%21%2163.67%2163.67%21%402101ec1f17544508490103968e3ff6%2112000043194746134%21sea%21CA%216437165644%21X%211%210%21&curPageLogUid=OkDO6QcIinjE&utparam-url=scene%3Asearch%7Cquery_from%3A |
 
-| Total (CAD)  |
-| ------------- |
-| $ 181.11 |
+| Total (CAD)  | Total (USD) |
+| ------------- | ------------- |
+| $ 161.35 | $ 117.56 |
 
 
 
