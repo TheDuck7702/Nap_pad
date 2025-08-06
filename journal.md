@@ -34,3 +34,8 @@ Ok so this is somewhat cool. I also got a review to add decoupling caps on my le
 <img width="1304" height="457" alt="image" src="https://github.com/user-attachments/assets/b43450dd-94b8-4d48-a97e-fca0b5fad4d4" />
 <img width="1004" height="753" alt="image" src="https://github.com/user-attachments/assets/cec4439c-536b-452d-9153-60fdccc4bec1" />
 
+## Day 8 - aug 6 5:00pm
+ok so i wanted to make the case more better ig. I was looking at other resons of regection and i relsied my case was a bit too simple. SO i added 2 new decals on the case, which is like sqares and a large circle. I also added some word art on the base and top plate
+
+![alt text](Assets/top1.png)
+![alt text](Assets/top2.png)
