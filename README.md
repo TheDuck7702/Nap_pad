@@ -12,7 +12,7 @@ I wanted to add more features that I missed out on in my hackpad. One thing I re
 ## Photos
 ![alt text](Assets/image.png)
 
-![alt text](Assets/schem1.png)
+![alt text](Assets/schem2.png)
 
 ![alt text](Assets/image-2.png)
 

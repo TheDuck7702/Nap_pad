@@ -1,5 +1,5 @@
 # **Nap-Pad 🛌**
-a 60% keyboard with rgb and a rotery encoder. Made for sleepers, by sleepers. It is portable, and very sleepy. Made with KiCAD and Fusion 360 and by Shayaan.is.sleep//The_Duck🦆 (me)  Total Hours: 12
+a 60% keyboard with rgb and a rotery encoder. Made for sleepers, by sleepers. It is portable, and very sleepy. Made with KiCAD and Fusion 360 and by Shayaan.is.sleep//The_Duck🦆 (me)  Total Hours: 14
 
 ## Day 1 - june 11 10:00 pm
 So the plan is to start the full-size project today, and then I'll try to finish this by the weekend. I did the HackPad, so I do have some experience behind my belt, but I never used materials or an OLED screen, so I'm a bit worried about that. What I plan to do is that I'll have around 61 keys all connected into a grid and that into the pico. I'll also have a rotary encoder and an SM RGB. I'll scrap the RGB if I run out of time.
